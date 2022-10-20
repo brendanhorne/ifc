@@ -1,0 +1,6 @@
+[submodule "github/ifcplusplus"]
+	path = github/ifcplusplus
+	url = https://github.com/ifcquery/ifcplusplus.git
+[submodule "github/IFC"]
+	path = github/IFC
+	url = https://github.com/buildingSMART/IFC.git
